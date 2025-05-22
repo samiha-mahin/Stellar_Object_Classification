@@ -1,1 +1,1 @@
-# Breast_Cancer
+# Stellar_Object_Classification
